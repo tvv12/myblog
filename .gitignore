@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.blog
+/static
+.DS_Store
+desctop.ini
